@@ -2,164 +2,164 @@
 
 |Region/Country |Code| Level | Playground |Notes|
 |---------------|----|-------|------------|-----|
-|**Afghanistan**|AFG|[0](/sources/gadm/afg/level_0)<br/>[1]()<br/>[2]()||TBD|
-|**Akrotiri and Dhekelia**|XAD|[0]()<br/>[1]()||TBD|
-|**Åland**|ALA|[0]()<br/>[1]()||TBD|
-|**Albania**|ALB|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|<a href="https://codesandbox.io/s/optimistic-booth-rnob1" target='_blank'>CodeSandbox</a><br/>[CodeSandbox](https://codesandbox.io/s/long-sunset-kyui8)<br/>[CodeSandbox](https://codesandbox.io/s/loving-paper-pnrbw)<br/>[CodeSandbox](https://codesandbox.io/s/happy-dream-g8x91)<br/>|TBD|
-|**Algeria**|DZA|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Angola**|AGO|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[CodeSandbox](https://codesandbox.io/s/infallible-liskov-h032r)<br/>[CodeSandbox](https://codesandbox.io/s/busy-pine-x91f0)<br/>[CodeSandbox](https://codesandbox.io/s/wispy-butterfly-d62q2)<br/>[CodeSandbox](https://codesandbox.io/s/quizzical-cookies-jgsfe)<br/>|TBD|
-|**Anguilla**|AIA|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/eloquent-gagarin-20sfm)<br/>|TBD|
-|**Antigua and Barbuda**|ATG|[0]()<br/>[1]()<br/>|[CodeSandbox](https://codesandbox.io/s/elastic-golick-lven8)<br/>[CodeSandbox](https://codesandbox.io/s/sleepy-breeze-owuhp)<br/>|TBD|
-|**Aruba**|ABW|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/hardcore-currying-8ywlc)<br/>|TBD|
-|**Australia**|AUS|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/gifted-surf-vq1bf)<br/>[CodeSandbox](https://codesandbox.io/s/weathered-moon-gnve3)<br/>[CodeSandbox](https://codesandbox.io/s/cranky-snow-ljpv2)<br/>|TBD|
-|**Bahamas**|BHS|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/heuristic-tdd-uhlmj)<br/>[CodeSandbox](https://codesandbox.io/s/competent-driscoll-nudy4)<br/>|TBD|
-|**Bahrain**|BHR|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/wonderful-yonath-nkmq8)<br/>[CodeSandbox](https://codesandbox.io/s/recursing-fermat-0fpiv)<br/>|TBD|
-|**Bangladesh**|BGD|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[Plunker](https://plnkr.co/edit/CzDUhn3r77rmD1Pb?preview)<br/>[Plunker](https://plnkr.co/edit/ZlLZuUH9rCpRTtS1?preview)<br/>[CodeSandbox](https://codesandbox.io/s/fervent-river-whiql)<br/>[CodeSandbox](https://codesandbox.io/s/stoic-kepler-e68sx)<br/>|TBD|
-|**Barbados**|BRB|[0]()<br/>[1]()||TBD|
-|**Belarus**|BLR|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/dark-monad-j5foc)<br/>[CodeSandbox](https://codesandbox.io/s/twilight-hill-qcr2d)<br/>[CodeSandbox](https://codesandbox.io/s/keen-meninsky-jo5sq)<br/>|TBD|
-|**Belize**|BLZ|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/stoic-sid-x8d2w)<br/>[CodeSandbox](https://codesandbox.io/s/wizardly-ritchie-jwjge)<br/>|TBD|
-|**Benin**|BEN|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/ecstatic-roentgen-n331n)<br/>[CodeSandbox](https://codesandbox.io/s/kind-hugle-wpv5b)<br/>[CodeSandbox](https://codesandbox.io/s/adoring-wave-3pef5)|TBD|
-|**Bermuda**|BMU|[0]()<br/>[1]()<br/>|[Plunker](https://plnkr.co/edit/3Rr2nPcvDuASWvDD?preview)<br/>[Plunker](https://plnkr.co/edit/tsVuBjdmkjFuUCkV?preview)<br/>|TBD|
-|**Bhutan**|BTN|[0]()<br/>[1]()<br/>[2]()<br/>|[Plunker](https://plnkr.co/edit/1f6SI8Be0Xv2B3wg?preview)<br/>[Plunker](https://plnkr.co/edit/17NaEvrwiJhSaQFA?preview)<br/>[Plunker](https://plnkr.co/edit/d5FVywLsFZrP0Lbb?preview)<br/>|TBD|
-|**Bolivia**|BOL|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[Plunker](https://plnkr.co/edit/7r3KsR8YUMXJanPM?preview)<br/>[Plunker](https://plnkr.co/edit/AkOQnzs1h4vVP2aQ?preview)<br/>[Plunker](https://plnkr.co/edit/2Co5NXVPfYTWJrG8?preview)<br/>[Plunker](https://plnkr.co/edit/MtFdFcg64vzHQetQ?preview)<br/>|TBD|
-|**Bonaire, Sint Eustatius and Saba**|BES|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/billowing-glitter-o5nuk)<br/>[CodeSandbox](https://codesandbox.io/s/lingering-sound-sgwnv)<br/>|TBD|
-|**Brazil**|BRA|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/competent-wu-gm10u)<br/>[CodeSandbox](https://codesandbox.io/s/lucid-hoover-3kupo)<br/>|TBD|
-|**Burkina Faso**|BFA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[CodeSandbox](https://codesandbox.io/s/young-morning-33q92)<br/>[CodeSandbox](https://codesandbox.io/s/keen-jepsen-1eheg)<br/>[CodeSandbox](https://codesandbox.io/s/quizzical-fog-rvctp)<br/>[CodeSandbox](https://codesandbox.io/s/elated-leaf-xwqey)<br/>|TBD|
-|**Burundi**|BDI|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[CodeSandbox](https://codesandbox.io/s/nameless-dawn-yrws2)<br/>[CodeSandbox](https://codesandbox.io/s/upbeat-montalcini-tt5o6)<br/>[CodeSandbox](https://codesandbox.io/s/nervous-frost-8d6je)<br/>[CodeSandbox](https://codesandbox.io/s/solitary-pine-cl27z)<br/>|TBD|
-|**Cambodia**|KHM|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()||TBD|
-|**Cameroon**|CMR|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Canada**|CAN|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Cape Verde**|CPV|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/objective-maxwell-tiicm)<br/>[CodeSandbox](https://codesandbox.io/s/ecstatic-mopsa-qzju4)<br/>|TBD|
-|**Cayman Islands**|CYM|[0]()<br/>[1]()|[Plunker](https://plnkr.co/edit/jdIr27pYnB3m767m?preview)<br/>[Plunker](https://plnkr.co/edit/hGHfHqmcenq2fzhV?preview)<br/>|TBD|
-|**Central African Republic (the)**|CAF|[0]()<br/>[1]()<br/>[2]()<br/>|[CodeSandbox](https://codesandbox.io/s/nervous-rgb-9z7y1)<br/>[CodeSandbox](https://codesandbox.io/s/nifty-williams-cwuso)<br/>[CodeSandbox](https://codesandbox.io/s/frosty-microservice-ewc6e)<br/>|TBD|
-|**Christmas Island**|CXR|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/awesome-carson-j1zg9)<br/>|TBD|
-|**Cocos (Keeling) Islands (the)**|CCK|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/objective-worker-f78g6)<br/>|TBD|
-|**Comoros (the)**|COM|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/great-rubin-lj4hj)<br/>[CodeSandbox](https://codesandbox.io/s/angry-rumple-8eerb)<br/>|TBD|
-|**Costa Rica**|CRI|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/wJdNNDrbIRcwcPBI?preview)<br/>[Plunker](https://plnkr.co/edit/uokTE781mW3VpUOn?preview)<br/>[Plunker](https://plnkr.co/edit/JzfcyfosQhBJ4DhR?preview)<br/>|TBD|
-|**Cuba**|CUB|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/QHGv5yk6LxnpVcGs?preview)<br/>[Plunker](https://plnkr.co/edit/Mz58rNT8dnKpNCxY?preview)<br/>[Plunker](https://plnkr.co/edit/OcMiQaiqu8fE4Rsc?preview)<br/>|TBD|
-|**Curaçao**|CUW|[0]()<br/>|[Plunker](https://plnkr.co/edit/Y9LUaSaAly4tc9uK?preview)<br/>|TBD|
-|**Czechia (Czech Republic)**|CZE|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/0hMOrPTEL8FApV9P?preview)<br/>[Plunker](https://plnkr.co/edit/7zTYmFX9AfvA36QO?preview)<br/>[Plunker](https://plnkr.co/edit/Rm2mgqulcVGZFR5W?preview)<br/>|TBD|
-|**Democratic Republic of the Congo**|COD|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Denmark**|DNK|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Djibouti**|DJI|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Dominica**|DMA|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/trusting-elgamal-5t777)<br/>[CodeSandbox](https://codesandbox.io/s/romantic-snyder-fb0co)<br/>|TBD|
-|**Dominican Republic**|DOM|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**East Timor**|TLS|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Ecuador**|ECU|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[Plunker](https://plnkr.co/edit/VHxVr0lKXAcZlg77?preview)<br/>[Plunker](https://plnkr.co/edit/Lmq8bIBCyIDtQDcM?preview)<br/>[Plunker](https://plnkr.co/edit/U4E9r3A8PoqI6L3V?preview)<br/>[CodeSandbox](https://codesandbox.io/s/charming-field-34dvs)<br/>|TBD|
-|**Egypt**|EGY|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/9B3XSp49l5IKL6bL?preview)<br/>[Plunker](https://plnkr.co/edit/SNLcn97e7zXfyzT0?preview)<br/>[Plunker](https://plnkr.co/edit/URUjLUhbsFIutT3P?preview)<br/>|TBD|
-|**El Salvador**|SLV|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Equatorial Guinea**|GNQ|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/Gm8FLETaSBxWghbt?preview)<br/>[Plunker](https://plnkr.co/edit/No4DZlMjuWMooAyk?preview)<br/>[Plunker](https://plnkr.co/edit/CG4NusvlKkjZwJ9W?preview)<br/>|TBD|
-|**Eritrea**|ERI|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/EXLieLvRAAzhktBg?preview)<br/>[Plunker](https://plnkr.co/edit/kwV5Pee9ri005RLM?preview)<br/>[Plunker](https://plnkr.co/edit/CwvR1TUb9EJLTRXo?preview)<br/>|TBD|
-|**Estonia**|EST|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/h3vwnM0qlVmF3QDx?preview)<br/>[Plunker](https://plnkr.co/edit/tL4mtuXdM8ETpTcV?preview)<br/>[Plunker](https://plnkr.co/edit/xFr6PYO608bNdmB7?preview)<br/>|TBD|
-|**Eswatini (Swaziland)**|SWZ|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/cDNjnu0PqZgBJywQ?preview)<br/>[Plunker](https://plnkr.co/edit/iTpZrSdetNT2cjRA?preview)<br/>[Plunker](https://plnkr.co/edit/ISkMC7492C3bbxhD?preview)<br/>|TBD|
-|**Faroe Islands**|FRO|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/LmaCMjsR8iN6XXI3?preview)<br/>[Plunker](https://plnkr.co/edit/snGH6JFW7z9Ec3Xc?preview)<br/>[Plunker](https://plnkr.co/edit/KbPfONNGZMdNOkgo?preview)<br/>|TBD|
-|**Fiji**|FJI|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/FPYOtOduZ0PucPpB?preview)<br/>[Plunker](https://plnkr.co/edit/AxYtZtiDpHmF6DTJ?preview)<br/>[Plunker](https://plnkr.co/edit/9qJ0uZGsJs5xkdks?preview)<br/>|TBD|
-|**Finland**|FIN|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()||TBD|
-|**France**|FRA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[CodeSandbox](https://codesandbox.io/s/gracious-euler-s3o5r)<br/>[CodeSandbox](https://codesandbox.io/s/wild-bird-cihpr)<br/>[CodeSandbox](https://codesandbox.io/s/vigorous-spence-d56sf)<br/>[CodeSandbox](https://codesandbox.io/s/billowing-tree-z4bgu)<br/>|TBD|
-|**French Polynesia**|PYF|[0]()<br/>[1]()<br/>|[CodeSandbox](https://codesandbox.io/s/throbbing-morning-fbxhq)<br/>[CodeSandbox](https://codesandbox.io/s/thirsty-engelbart-r150u)<br/>|TBD|
-|**French Guiana**|GUF|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/condescending-sound-hofq1)<br/>[CodeSandbox](https://codesandbox.io/s/infallible-bartik-fzyp7)<br/>[CodeSandbox](https://codesandbox.io/s/long-frog-s3hw0)<br/>|TBD|
-|**Gabon**|GAB|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Gambia**|GMB|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Georgia**|GEO|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Germany**|DEU|[0]()<br/>[1]()<br/>|[CodeSandbox](https://codesandbox.io/s/stupefied-hofstadter-kg3r4)<br/>[CodeSandbox](https://codesandbox.io/s/snowy-darkness-mpllm)<br/>|TBD|
-|**Ghana**|GHA|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/Ho5X01WB6KqRzYrI?preview)<br/>[Plunker](https://plnkr.co/edit/yeZjoAELry2EP3EK?preview)<br/>[Plunker](https://plnkr.co/edit/fj2WD2dnD1mYuIeW?preview)<br/>|TBD|
-|**Greece**|GRC|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[Plunker](https://plnkr.co/edit/pa0veElOgfoEyAHt?preview)<br/>[Plunker](https://plnkr.co/edit/kpOdq2fko2y4MVoB?preview)<br/>[Plunker](https://plnkr.co/edit/uuElnaXP6vOcogDU?preview)<br/>[Plunker](https://plnkr.co/edit/zAcCvIMI8cAoN58q?preview)<br/>|TBD|
-|**Greenland**|GRL|[0]()<br/>[1]()<br/>|[Plunker](https://plnkr.co/edit/DT9NibfJjiWyExYe?preview)<br/>[Plunker](https://plnkr.co/edit/G9xRTvVusmXK5HJU?preview)<br/>|TBD|
-|**Guadeloupe**|GLP|[0]()<br/>[1]()<br/>[2]()<br/>|[Plunker](https://plnkr.co/edit/bJ3z56szZGLS1unT?preview)<br/>[Plunker](https://plnkr.co/edit/niCdE6Q3TDDWVMDV?preview)<br/>[Plunker](https://plnkr.co/edit/EJAUqPA5OT9wfLb3?preview)<br/>|TBD|
-|**Guernsey**|GHA|[0]()<br/>[1]()|[Plunker](https://plnkr.co/edit/2WdGvIJAgXZtHW9N?preview)<br/>[Plunker](https://plnkr.co/edit/4AGPJE6aUfjqXheF?preview)<br/>|TBD|
-|**Guinea**|GGY|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[CodeSandbox](https://codesandbox.io/s/ecstatic-banach-nb4ih)<br/>[CodeSandbox](https://codesandbox.io/s/infallible-night-lgy0f)<br/>[CodeSandbox](https://codesandbox.io/s/pedantic-hooks-q2w3n)<br/>[CodeSandbox](https://codesandbox.io/s/still-fog-stcqy)|TBD|
-|**Haiti**|HTI|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()|[CodeSandbox](https://codesandbox.io/s/unruffled-water-b4d0t)<br/>[CodeSandbox](https://codesandbox.io/s/wizardly-cache-ku3gx)<br/>[CodeSandbox](https://codesandbox.io/s/clever-snow-gjkrc)<br/>[CodeSandbox](https://codesandbox.io/s/mystifying-wave-8rbj8)<br/>[CodeSandbox](https://codesandbox.io/s/nervous-breeze-tnn4v)<br/>|TBD|
-|**Heard Island and McDonald Islands**|HMD|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/falling-star-ipfr8)<br/>|TBD|
-|**Honduras**|HND|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/fervent-marco-p8m71)<br/>[CodeSandbox](https://codesandbox.io/s/nameless-shape-3p0lc)<br/>[CodeSandbox](https://codesandbox.io/s/vibrant-meadow-jx97c)<br/>|TBD|
-|**Hong Kong**|HKG|[0]()<br/>[1]()||TBD|
-|**Hungary**|HUN|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Iceland**|ISL|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/determined-hopper-eel1v)<br/>[CodeSandbox](https://codesandbox.io/s/twilight-cloud-hg5oz)<br/>[CodeSandbox](https://codesandbox.io/s/frosty-surf-g4vc8)<br/>|TBD|
-|**India**|IND|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[CodeSandbox](https://codesandbox.io/s/heuristic-rosalind-k474b)<br/>[CodeSandbox](https://codesandbox.io/s/icy-rain-qg15x)<br/>[CodeSandbox](https://codesandbox.io/s/objective-waterfall-rm51f)<br/>[CodeSandbox](https://codesandbox.io/s/serene-fermi-segeg)<br/>|TBD|
-|**Indonesia**|IDN|[0]()<br/>[1]()<br/>|[CodeSandbox](https://codesandbox.io/s/nostalgic-burnell-v3vjk)<br/>[CodeSandbox](https://codesandbox.io/s/proud-glade-fem41)<br/>|TBD|
-|**Iran**|IRN|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Iraq**|IRQ|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/goofy-poincare-upbbh)<br/>[CodeSandbox](https://codesandbox.io/s/elated-dust-1wk6f)<br/>[CodeSandbox](https://codesandbox.io/s/youthful-ardinghelli-06u4m)<br/>|TBD|
-|**Ireland**|IRL|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/epic-bartik-y7kbk)<br/>[CodeSandbox](https://codesandbox.io/s/angry-cannon-deth1)<br/>|TBD|
-|**Israel**|ISR	|[0]()<br/>[1]()<br/>|[CodeSandbox](https://codesandbox.io/s/fervent-nobel-qv9uv)<br/>[CodeSandbox](https://codesandbox.io/s/nostalgic-jennings-ytdfg)|TBD|
-|**Italy**|ITA|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/condescending-rgb-vfzin)<br/>[CodeSandbox](https://codesandbox.io/s/ecstatic-minsky-izsol)<br/>[CodeSandbox](https://codesandbox.io/s/beautiful-sun-hm9qy)<br/>|TBD|
-|**Jamaica**|JAM|[0]()<br/>[1]()|[Plunker](https://plnkr.co/edit/HXRhVj2USn5BhQVX?preview)<br/>[Plunker](https://plnkr.co/edit/x9uPUPQfchaUTUzY?preview)<br/>|TBD|
-|**Japan**|JPN|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/NlVwgSeLExXblZNO?preview)<br/>[Plunker](https://plnkr.co/edit/Idn8rr8JwhUQ3fgI?preview)<br/>[CodeSandbox](https://codesandbox.io/s/zen-water-q5wpw)<br/>|TBD|
-|**Jersey**|JEY|[0]()<br/>[1]()||TBD|
-|**Jordan**|JOR|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Kazakhstan**|KAZ|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Kenya**|KEN|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Kosovo**|KOS|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Kuwait**|KWT|[0]()<br/>[1]()||TBD|
-|**Kyrgyzstan**|KGZ|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/nsRckV8d4r5LIGvM?preview)<br/>[Plunker](https://plnkr.co/edit/eKPFVc6EdVR3LLeA?preview)<br/>[Plunker](https://plnkr.co/edit/UfZlPVLP3sLwRWxg?preview)<br/>|TBD|
-|**Laos**|LAO|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/nHVuoxx8oT0eTjsE?preview)<br/>[Plunker](https://plnkr.co/edit/CkXyr8eHEWQGrwRp?preview)<br/>[Plunker](https://plnkr.co/edit/RkAY508rUugBqI1H?preview)<br/>|TBD|
-|**Latvia**|LVA|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Lebanon**|LBN|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[Plunker](https://plnkr.co/edit/4CG2yQZBWx4EZBhJ?preview)<br/>[Plunker](https://plnkr.co/edit/ovUNa3uCGaBN00ju?preview)<br/>[Plunker](https://plnkr.co/edit/Jn2dvsKdVbYg5Kg9?preview)<br/>[CodeSandbox](https://codesandbox.io/s/romantic-kare-iucko)<br/>|TBD|
-|**Lesotho**|LSO|[0]()<br/>[1]()|[Plunker](https://plnkr.co/edit/x1zhKDSNxHEmgRjP?preview)<br/>[Plunker](https://plnkr.co/edit/PuQj3RUNX8BnTH0a?preview)<br/>|TBD|
-|**Liberia**|LBR|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[Plunker](https://plnkr.co/edit/QKdFixnpBQkwOImo?preview)<br/>[Plunker](https://plnkr.co/edit/72MCcG6AAfBpCu2E?preview)<br/>[Plunker](https://plnkr.co/edit/6EG5HtKyiO7Ea2rk?preview)<br/>[Plunker](https://plnkr.co/edit/hKIMkWObfpumBiwU?preview)<br/>|TBD|
-|**Lithuania**|LTU|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/xNWmD6qn50hzwbky?preview)<br/>[Plunker](https://plnkr.co/edit/9FQsiYmUCGTXq0NH?preview)<br/>[Plunker](https://plnkr.co/edit/yGBMr5h3I6wW1FD3?preview)<br/>|TBD|
-|**Macao**|MAC|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/practical-hill-nj4ce)<br/>[CodeSandbox](https://codesandbox.io/s/elegant-sound-p36x4)<br/>[CodeSandbox](https://codesandbox.io/s/vigilant-curie-pt3lx)<br/>|TBD|
-|**Macedonia**|MKD|[0]()<br/>[1]()||TBD|
-|**Madagascar**|MDG|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()||TBD|
-|**Malawi**|MWI|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[Plunker](https://plnkr.co/edit/FCsPQMQapLuOUgsT?preview)<br/>[Plunker](https://plnkr.co/edit/d1fukOIVa6Tt1U5x?preview)<br/>[Plunker](https://plnkr.co/edit/xFGe1dsZEsBr4xLi?preview)<br/>[CodeSandbox](https://codesandbox.io/s/kind-sammet-e2xy4)<br/>|TBD|
-|**Malaysia**|MYS|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/exciting-cache-yknmb)<br/>[CodeSandbox](https://codesandbox.io/s/keen-chandrasekhar-c4owe)<br/>[CodeSandbox](https://codesandbox.io/s/interesting-violet-4k3cf)<br/>|TBD|
-|**Maldives**|MDV|[0]()<br/>|[Plunker](https://plnkr.co/edit/q3hJmXsfixM56gUm?preview)<br/>|TBD|
-|**Mali**|MLI|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()|[CodeSandbox](https://codesandbox.io/s/interesting-rui-b245n)<br/>[CodeSandbox](https://codesandbox.io/s/dreamy-cerf-ldg5o)<br/>[CodeSandbox](https://codesandbox.io/s/busy-dream-pbjiv)<br/>[CodeSandbox](https://codesandbox.io/s/condescending-shaw-uyxvx)<br/>[CodeSandbox](https://codesandbox.io/s/delicate-feather-rz64r)<br/>|TBD|
-|**Malta**|MLT|[0]()<br/>[1]()<br/>[2]()<br/>|[Plunker](https://plnkr.co/edit/s7kGbKmmxu2UfCAS?preview)<br/>[Plunker](https://plnkr.co/edit/leDn9iwyqbWEBn0B?preview)<br/>[Plunker](https://plnkr.co/edit/oRpXV8hT11OS3rzx?preview)<br/>|TBD|
-|**Martinique**|MTQ|[0]()<br/>[1]()<br/>[2]()<br/>|[Plunker](https://plnkr.co/edit/2clAdisI8CKhk3eY?preview)<br/>[Plunker](https://plnkr.co/edit/Q7RKpE4vAV15O4Lw?preview)<br/>[Plunker](https://plnkr.co/edit/jhF90YkTE22q3Lf5?preview)<br/>|TBD|
-|**Mauritania**|MRT|[0]()<br/>[1]()<br/>[2]()<br/>|[Plunker](https://plnkr.co/edit/E8mHpjVVTkR0urlm?preview)<br/>[Plunker](https://plnkr.co/edit/YB9h6FYU9goIZwqY?preview)<br/>[Plunker](https://plnkr.co/edit/mOyqR1gWpqe2GKIF?preview)<br/>|TBD|
-|**Mayotte**|MYT|[0]()<br/>[1]()<br/>|[Plunker](https://plnkr.co/edit/caePQNg79pttxedZ?preview)<br/>[Plunker](https://plnkr.co/edit/cGOJ7w7RqgnGzbnJ?preview)<br/>|TBD|
-|**Monaco**|MCO|[0]()<br/>|[Plunker](https://plnkr.co/edit/9xyKtJQYFjOeJbh2?preview)<br/>|TBD|
-|**Mongolia**|MNG|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/wizardly-tu-tkwxw)<br/>[CodeSandbox](https://codesandbox.io/s/admiring-glade-0mdin)<br/>[CodeSandbox](https://codesandbox.io/s/restless-dawn-y3sdo)<br/>|TBD|
-|**Montserrat**|MSR|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/intelligent-feather-lghlo)<br/>[CodeSandbox](https://codesandbox.io/s/runtime-smoke-xh7tm)<br/>|TBD|
-|**Morocco**|MAR|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()<br/>|[CodeSandbox](https://codesandbox.io/s/thirsty-lucy-b7w3t)<br/>[CodeSandbox](https://codesandbox.io/s/compassionate-rubin-qi0fe)<br/>[CodeSandbox](https://codesandbox.io/s/muddy-rain-e36nn)<br/>[CodeSandbox](https://codesandbox.io/s/great-austin-6dg7r)<br/>[CodeSandbox](https://codesandbox.io/s/patient-cookies-0xgyw)<br/>|TBD|
-|**Myanmar**|MMR|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[CodeSandbox](https://codesandbox.io/s/exciting-newton-qrb3z)<br/>[CodeSandbox](https://codesandbox.io/s/peaceful-chihiro-izdoj)<br/>[CodeSandbox](https://codesandbox.io/s/optimistic-gwen-i7re6)<br/>[CodeSandbox](https://codesandbox.io/s/dreamy-cache-bo1qn)<br/>|TBD|
-|**Namibia**|NAM|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Nauru**|NRU|[0]()<br/>[1]()|[CodeSandbox](https://codesandbox.io/s/adoring-glade-lhbg1)<br/>[CodeSandbox](https://codesandbox.io/s/dazzling-fermat-s8j0d)<br/>|TBD|
-|**Nepal**|NPL|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[Plunker](https://plnkr.co/edit/cx9RJWq1JLbiOlAl?preview)<br/>[Plunker](https://plnkr.co/edit/9okUMs0TlfGe3rsL?preview)<br/>[Plunker](https://plnkr.co/edit/apZVQgxwWQfjYrqM?preview)<br/>[Plunker](https://plnkr.co/edit/GPyRspe0dIomOM4t?preview)<br/>|TBD|
-|**Netherlands**|NLD|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/jbkmFGInUzBByVyF?preview)<br/>[Plunker](https://plnkr.co/edit/g1NI2k7jTUHmEsgo?preview)<br/>[Plunker](https://plnkr.co/edit/HU3jp7FKQUfIXubY?preview)<br/>|TBD|
-|**New Caledonia**|NCL|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**New Zealand**|NZL|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/HH0YyaU6YuqGpZuH?preview)<br/>[Plunker](https://plnkr.co/edit/bAQVWvlSHMkyPFwD?preview)<br/>[Plunker](https://plnkr.co/edit/logsnbeskp3TwY72?preview)<br/>|TBD|
-|**Nicaragua**|NIC|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/DHcbYVsCff4ABtu3?preview)<br/>[Plunker](https://plnkr.co/edit/XjzkG5flq1pJwUX1?preview)<br/>[Plunker](https://plnkr.co/edit/hAvZ5Yb6EkNzTumj?preview)<br/>|TBD|
-|**Niger**|NER|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[Plunker](https://plnkr.co/edit/CNyHQpZRIydC2ygX?preview)<br/>[Plunker](https://plnkr.co/edit/BCec5GG13ceMGmoo?preview)<br/>[Plunker](https://plnkr.co/edit/0lQFh4ilqmXzTH4j?preview)<br/>[Plunker](https://plnkr.co/edit/NmgieQzsn1Oz0Id8?preview)<br/>|TBD|
-|**North Korea**|PRK|[0]()<br/>[1]()<br/>[2]()|[Plunker](https://plnkr.co/edit/LbNUlJ8e5vHpFgQx?preview)<br/>[Plunker](https://plnkr.co/edit/Fb7BThP17qgOw0mf?preview)<br/>[Plunker](https://plnkr.co/edit/QDLmeQPnTYJKgOZj?preview)<br/>|TBD|
-|**Oman**|OMN|[0]()<br/>[1]()||TBD|
-|**Pakistan**|PAK|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Palau**|PLW|[0]()<br/>[1]()||TBD|
-|**Palestine**|PSE|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Panama**|PAN|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Papua New Guinea**|PNG|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Paraguay**|PRY|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Qatar**|QAT|[0]()<br/>[1]()||TBD|
-|**Republic of the Congo**|COG|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Réunion**|REU|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Romania**|ROU|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Russia**|RUS|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Rwanda**|RWA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()||TBD|
-|**Saint Helena**|SHN|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Saint Kitts and Nevis**|KNA|[0]()<br/>[1]()||TBD|
-|**Saint Lucia**|LCA|[0]()<br/>[1]()||TBD|
-|**Saint Pierre and Miquelon**|SPM|[0]()<br/>[1]()||TBD|
-|**Saint Vincent and the Grenadines**|VCT|[0]()<br/>[1]()||TBD|
-|**Samoa**|WSM|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**South Korea**|KOR|[0]()<br/>[1]()<br/>[2]()|[CodeSandbox](https://codesandbox.io/s/interesting-almeida-do09h)<br/>[CodeSandbox](https://codesandbox.io/s/thirsty-stallman-pudhr)<br/>[CodeSandbox](https://codesandbox.io/s/musing-kowalevski-kphnw)<br/>|TBD|
-|**Taiwan**|TWN|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Tajikistan**|TJK|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Tanzania**|TZA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Thailand**|THA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Togo**|TGO|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Uganda**|UGA|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>[4]()||TBD|
-|**Ukraine**|UKR|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**United Arab Emirates**|ARE|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**United Kingdom**|GBR|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Uruguay**|URY|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Uzbekistan**|UZB|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Vanuatu**|VUT|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Venezuela**|VEN|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Vietnam**|VNM|[0]()<br/>[1]()<br/>[2]()<br/>[3]()||TBD|
-|**Virgin Islands**|VIR|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Wallis and Futuna**|WLF|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Western Sahara**|ESH|[0]()<br/>[1]()||TBD|
-|**Yemen**|YEM|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Zambia**|YEM|[0]()<br/>[1]()<br/>[2]()||TBD|
-|**Zimbabwe**|YEM|[0]()<br/>[1]()<br/>[2]()||TBD|
+|**Afghanistan**|AFG|[0](/sources/gadm/afg/level_0)<br/>[1](/sources/gadm/afg/level_1)<br/>[2](/sources/gadm/afg/level_2)||TBD|
+|**Akrotiri and Dhekelia**|XAD|[0](/sources/gadm/xad/level_0)<br/>[1](/sources/gadm/xad/level_1)||TBD|
+|**Åland**|ALA|[0](/sources/gadm/ala/level_0)<br/>[1](/sources/gadm/ala/level_1)||TBD|
+|**Albania**|ALB|[0](/sources/gadm/alb/level_0)<br/>[1](/sources/gadm/alb/level_1)<br/>[2](/sources/gadm/alb/level_2)<br/>[3](/sources/gadm/alb/level_3)|[CodeSandbox](https://codesandbox.io/s/optimistic-booth-rnob1)<br/>[CodeSandbox](https://codesandbox.io/s/long-sunset-kyui8)<br/>[CodeSandbox](https://codesandbox.io/s/loving-paper-pnrbw)<br/>[CodeSandbox](https://codesandbox.io/s/happy-dream-g8x91)<br/>|TBD|
+|**Algeria**|DZA|[0](/sources/gadm/dza/level_0)<br/>[1](/sources/gadm/dza/level_1)<br/>[2](/sources/gadm/dza/level_2)||TBD|
+|**Angola**|AGO|[0](/sources/gadm/ago/level_0)<br/>[1](/sources/gadm/ago/level_1)<br/>[2](/sources/gadm/ago/level_2)<br/>[3](/sources/gadm/ago/level_3)<br/>|[CodeSandbox](https://codesandbox.io/s/infallible-liskov-h032r)<br/>[CodeSandbox](https://codesandbox.io/s/busy-pine-x91f0)<br/>[CodeSandbox](https://codesandbox.io/s/wispy-butterfly-d62q2)<br/>[CodeSandbox](https://codesandbox.io/s/quizzical-cookies-jgsfe)<br/>|TBD|
+|**Anguilla**|AIA|[0](/sources/gadm/aia/level_0)<br/>|[CodeSandbox](https://codesandbox.io/s/eloquent-gagarin-20sfm)<br/>|TBD|
+|**Antigua and Barbuda**|ATG|[0](/sources/gadm/atg/level_0)<br/>[1](/sources/gadm/atg/level_1)<br/>|[CodeSandbox](https://codesandbox.io/s/elastic-golick-lven8)<br/>[CodeSandbox](https://codesandbox.io/s/sleepy-breeze-owuhp)<br/>|TBD|
+|**Aruba**|ABW|[0](/sources/gadm/abw/level_0)<br/>|[CodeSandbox](https://codesandbox.io/s/hardcore-currying-8ywlc)<br/>|TBD|
+|**Australia**|AUS|[0](/sources/gadm/aus/level_0)<br/>[1](/sources/gadm/aus/level_1)<br/>[2](/sources/gadm/aus/level_2)|[CodeSandbox](https://codesandbox.io/s/gifted-surf-vq1bf)<br/>[CodeSandbox](https://codesandbox.io/s/weathered-moon-gnve3)<br/>[CodeSandbox](https://codesandbox.io/s/cranky-snow-ljpv2)<br/>|TBD|
+|**Bahamas**|BHS|[0](/sources/gadm/bhs/level_0)<br/>[1](/sources/gadm/bhs/level_1)|[CodeSandbox](https://codesandbox.io/s/heuristic-tdd-uhlmj)<br/>[CodeSandbox](https://codesandbox.io/s/competent-driscoll-nudy4)<br/>|TBD|
+|**Bahrain**|BHR|[0](/sources/gadm/bhr/level_0)<br/>[1](/sources/gadm/bhr/level_1)|[CodeSandbox](https://codesandbox.io/s/wonderful-yonath-nkmq8)<br/>[CodeSandbox](https://codesandbox.io/s/recursing-fermat-0fpiv)<br/>|TBD|
+|**Bangladesh**|BGD|[0](/sources/gadm/bgd/level_0)<br/>[1](/sources/gadm/bgd/level_1)<br/>[2](/sources/gadm/bgd/level_2)<br/>[3](/sources/gadm/bgd/level_3)<br/>|[Plunker](https://plnkr.co/edit/CzDUhn3r77rmD1Pb?preview)<br/>[Plunker](https://plnkr.co/edit/ZlLZuUH9rCpRTtS1?preview)<br/>[CodeSandbox](https://codesandbox.io/s/fervent-river-whiql)<br/>[CodeSandbox](https://codesandbox.io/s/stoic-kepler-e68sx)<br/>|TBD|
+|**Barbados**|BRB|[0](/sources/gadm/brb/level_0)<br/>[1](/sources/gadm/brb/level_1)||TBD|
+|**Belarus**|BLR|[0](/sources/gadm/blr/level_0)<br/>[1](/sources/gadm/blr/level_1)<br/>[2](/sources/gadm/blr/level_2)|[CodeSandbox](https://codesandbox.io/s/dark-monad-j5foc)<br/>[CodeSandbox](https://codesandbox.io/s/twilight-hill-qcr2d)<br/>[CodeSandbox](https://codesandbox.io/s/keen-meninsky-jo5sq)<br/>|TBD|
+|**Belize**|BLZ|[0](/sources/gadm/blz/level_0)<br/>[1](/sources/gadm/blz/level_1)|[CodeSandbox](https://codesandbox.io/s/stoic-sid-x8d2w)<br/>[CodeSandbox](https://codesandbox.io/s/wizardly-ritchie-jwjge)<br/>|TBD|
+|**Benin**|BEN|[0](/sources/gadm/ben/level_0)<br/>[1](/sources/gadm/ben/level_1)<br/>[2](/sources/gadm/ben/level_2)|[CodeSandbox](https://codesandbox.io/s/ecstatic-roentgen-n331n)<br/>[CodeSandbox](https://codesandbox.io/s/kind-hugle-wpv5b)<br/>[CodeSandbox](https://codesandbox.io/s/adoring-wave-3pef5)|TBD|
+|**Bermuda**|BMU|[0](/sources/gadm/bmu/level_0)<br/>[1](/sources/gadm/bmu/level_1)<br/>|[Plunker](https://plnkr.co/edit/3Rr2nPcvDuASWvDD?preview)<br/>[Plunker](https://plnkr.co/edit/tsVuBjdmkjFuUCkV?preview)<br/>|TBD|
+|**Bhutan**|BTN|[0](/sources/gadm/btn/level_0)<br/>[1](/sources/gadm/btn/level_1)<br/>[2](/sources/gadm/btn/level_2)<br/>|[Plunker](https://plnkr.co/edit/1f6SI8Be0Xv2B3wg?preview)<br/>[Plunker](https://plnkr.co/edit/17NaEvrwiJhSaQFA?preview)<br/>[Plunker](https://plnkr.co/edit/d5FVywLsFZrP0Lbb?preview)<br/>|TBD|
+|**Bolivia**|BOL|[0](/sources/gadm/bol/level_0)<br/>[1](/sources/gadm/bol/level_1)<br/>[2](/sources/gadm/bol/level_2)<br/>[3](/sources/gadm/bol/level_3)<br/>|[Plunker](https://plnkr.co/edit/7r3KsR8YUMXJanPM?preview)<br/>[Plunker](https://plnkr.co/edit/AkOQnzs1h4vVP2aQ?preview)<br/>[Plunker](https://plnkr.co/edit/2Co5NXVPfYTWJrG8?preview)<br/>[Plunker](https://plnkr.co/edit/MtFdFcg64vzHQetQ?preview)<br/>|TBD|
+|**Bonaire, Sint Eustatius and Saba**|BES|[0](/sources/gadm/bes/level_0)<br/>[1](/sources/gadm/bes/level_1)|[CodeSandbox](https://codesandbox.io/s/billowing-glitter-o5nuk)<br/>[CodeSandbox](https://codesandbox.io/s/lingering-sound-sgwnv)<br/>|TBD|
+|**Brazil**|BRA|[0](/sources/gadm/bra/level_0)<br/>[1](/sources/gadm/bra/level_1)|[CodeSandbox](https://codesandbox.io/s/competent-wu-gm10u)<br/>[CodeSandbox](https://codesandbox.io/s/lucid-hoover-3kupo)<br/>|TBD|
+|**Burkina Faso**|BFA|[0](/sources/gadm/bfa/level_0)<br/>[1](/sources/gadm/bfa/level_1)<br/>[2](/sources/gadm/bfa/level_2)<br/>[3](/sources/gadm/bfa/level_3)<br/>|[CodeSandbox](https://codesandbox.io/s/young-morning-33q92)<br/>[CodeSandbox](https://codesandbox.io/s/keen-jepsen-1eheg)<br/>[CodeSandbox](https://codesandbox.io/s/quizzical-fog-rvctp)<br/>[CodeSandbox](https://codesandbox.io/s/elated-leaf-xwqey)<br/>|TBD|
+|**Burundi**|BDI|[0](/sources/gadm/bdi/level_0)<br/>[1](/sources/gadm/bdi/level_1)<br/>[2](/sources/gadm/bdi/level_2)<br/>[3](/sources/gadm/bdi/level_3)|[CodeSandbox](https://codesandbox.io/s/nameless-dawn-yrws2)<br/>[CodeSandbox](https://codesandbox.io/s/upbeat-montalcini-tt5o6)<br/>[CodeSandbox](https://codesandbox.io/s/nervous-frost-8d6je)<br/>[CodeSandbox](https://codesandbox.io/s/solitary-pine-cl27z)<br/>|TBD|
+|**Cambodia**|KHM|[0](/sources/gadm/khm/level_0)<br/>[1](/sources/gadm/khm/level_1)<br/>[2](/sources/gadm/khm/level_2)<br/>[3](/sources/gadm/khm/level_3)<br/>[4](/sources/gadm/khm/level_4)||TBD|
+|**Cameroon**|CMR|[0](/sources/gadm/cmr/level_0)<br/>[1](/sources/gadm/cmr/level_1)<br/>[2](/sources/gadm/cmr/level_2)<br/>[3](/sources/gadm/cmr/level_3)||TBD|
+|**Canada**|CAN|[0](/sources/gadm/can/level_0)<br/>[1](/sources/gadm/can/level_1)<br/>[2](/sources/gadm/can/level_2)<br/>[3](/sources/gadm/can/level_3)||TBD|
+|**Cape Verde**|CPV|[0](/sources/gadm/cpv/level_0)<br/>[1](/sources/gadm/cpv/level_1)|[CodeSandbox](https://codesandbox.io/s/objective-maxwell-tiicm)<br/>[CodeSandbox](https://codesandbox.io/s/ecstatic-mopsa-qzju4)<br/>|TBD|
+|**Cayman Islands**|CYM|[0](/sources/gadm/cym/level_0)<br/>[1](/sources/gadm/cym/level_1)|[Plunker](https://plnkr.co/edit/jdIr27pYnB3m767m?preview)<br/>[Plunker](https://plnkr.co/edit/hGHfHqmcenq2fzhV?preview)<br/>|TBD|
+|**Central African Republic (the)**|CAF|[0](/sources/gadm/caf/level_0)<br/>[1](/sources/gadm/caf/level_1)<br/>[2](/sources/gadm/caf/level_2)<br/>|[CodeSandbox](https://codesandbox.io/s/nervous-rgb-9z7y1)<br/>[CodeSandbox](https://codesandbox.io/s/nifty-williams-cwuso)<br/>[CodeSandbox](https://codesandbox.io/s/frosty-microservice-ewc6e)<br/>|TBD|
+|**Christmas Island**|CXR|[0](/sources/gadm/cxr/level_0)<br/>|[CodeSandbox](https://codesandbox.io/s/awesome-carson-j1zg9)<br/>|TBD|
+|**Cocos (Keeling) Islands (the)**|CCK|[0](/sources/gadm/cck/level_0)<br/>|[CodeSandbox](https://codesandbox.io/s/objective-worker-f78g6)<br/>|TBD|
+|**Comoros (the)**|COM|[0](/sources/gadm/com/level_0)<br/>[1](/sources/gadm/com/level_1)|[CodeSandbox](https://codesandbox.io/s/great-rubin-lj4hj)<br/>[CodeSandbox](https://codesandbox.io/s/angry-rumple-8eerb)<br/>|TBD|
+|**Costa Rica**|CRI|[0](/sources/gadm/cri/level_0)<br/>[1](/sources/gadm/cri/level_1)<br/>[2](/sources/gadm/cri/level_2)|[Plunker](https://plnkr.co/edit/wJdNNDrbIRcwcPBI?preview)<br/>[Plunker](https://plnkr.co/edit/uokTE781mW3VpUOn?preview)<br/>[Plunker](https://plnkr.co/edit/JzfcyfosQhBJ4DhR?preview)<br/>|TBD|
+|**Cuba**|CUB|[0](/sources/gadm/cub/level_0)<br/>[1](/sources/gadm/cub/level_1)<br/>[2](/sources/gadm/cub/level_2)|[Plunker](https://plnkr.co/edit/QHGv5yk6LxnpVcGs?preview)<br/>[Plunker](https://plnkr.co/edit/Mz58rNT8dnKpNCxY?preview)<br/>[Plunker](https://plnkr.co/edit/OcMiQaiqu8fE4Rsc?preview)<br/>|TBD|
+|**Curaçao**|CUW|[0](/sources/gadm/cuw/level_0)<br/>|[Plunker](https://plnkr.co/edit/Y9LUaSaAly4tc9uK?preview)<br/>|TBD|
+|**Czechia (Czech Republic)**|CZE|[0](/sources/gadm/cze/level_0)<br/>[1](/sources/gadm/cze/level_1)<br/>[2](/sources/gadm/cze/level_2)|[Plunker](https://plnkr.co/edit/0hMOrPTEL8FApV9P?preview)<br/>[Plunker](https://plnkr.co/edit/7zTYmFX9AfvA36QO?preview)<br/>[Plunker](https://plnkr.co/edit/Rm2mgqulcVGZFR5W?preview)<br/>|TBD|
+|**Democratic Republic of the Congo**|COD|[0](/sources/gadm/cod/level_0)<br/>[1](/sources/gadm/cod/level_1)<br/>[2](/sources/gadm/cod/level_2)||TBD|
+|**Denmark**|DNK|[0](/sources/gadm/dnk/level_0)<br/>[1](/sources/gadm/dnk/level_1)<br/>[2](/sources/gadm/dnk/level_2)||TBD|
+|**Djibouti**|DJI|[0](/sources/gadm/dji/level_0)<br/>[1](/sources/gadm/dji/level_1)<br/>[2](/sources/gadm/dji/level_2)||TBD|
+|**Dominica**|DMA|[0](/sources/gadm/dma/level_0)<br/>[1](/sources/gadm/dma/level_2)|[CodeSandbox](https://codesandbox.io/s/trusting-elgamal-5t777)<br/>[CodeSandbox](https://codesandbox.io/s/romantic-snyder-fb0co)<br/>|TBD|
+|**Dominican Republic**|DOM|[0](/sources/gadm/dom/level_0)<br/>[1](/sources/gadm/dom/level_1)<br/>[2](/sources/gadm/dom/level_2)||TBD|
+|**East Timor**|TLS|[0](/sources/gadm/tls/level_0)<br/>[1](/sources/gadm/tls/level_1)<br/>[2](/sources/gadm/tls/level_2)<br/>[3](/sources/gadm/tls/level_3)||TBD|
+|**Ecuador**|ECU|[0](/sources/gadm/ecu/level_0)<br/>[1](/sources/gadm/ecu/level_1)<br/>[2](/sources/gadm/ecu/level_2)<br/>[3](/sources/gadm/ecu/level_3)|[Plunker](https://plnkr.co/edit/VHxVr0lKXAcZlg77?preview)<br/>[Plunker](https://plnkr.co/edit/Lmq8bIBCyIDtQDcM?preview)<br/>[Plunker](https://plnkr.co/edit/U4E9r3A8PoqI6L3V?preview)<br/>[CodeSandbox](https://codesandbox.io/s/charming-field-34dvs)<br/>|TBD|
+|**Egypt**|EGY|[0](/sources/gadm/egy/level_0)<br/>[1](/sources/gadm/egy/level_1)<br/>[2](/sources/gadm/egy/level_2)|[Plunker](https://plnkr.co/edit/9B3XSp49l5IKL6bL?preview)<br/>[Plunker](https://plnkr.co/edit/SNLcn97e7zXfyzT0?preview)<br/>[Plunker](https://plnkr.co/edit/URUjLUhbsFIutT3P?preview)<br/>|TBD|
+|**El Salvador**|SLV|[0](/sources/gadm/slv/level_0)<br/>[1](/sources/gadm/slv/level_1)<br/>[2](/sources/gadm/slv/level_2)||TBD|
+|**Equatorial Guinea**|GNQ|[0](/sources/gadm/gnq/level_0)<br/>[1](/sources/gadm/gnq/level_1)<br/>[2](/sources/gadm/gnq/level_2)|[Plunker](https://plnkr.co/edit/Gm8FLETaSBxWghbt?preview)<br/>[Plunker](https://plnkr.co/edit/No4DZlMjuWMooAyk?preview)<br/>[Plunker](https://plnkr.co/edit/CG4NusvlKkjZwJ9W?preview)<br/>|TBD|
+|**Eritrea**|ERI|[0](/sources/gadm/eri/level_0)<br/>[1](/sources/gadm/eri/level_1)<br/>[2](/sources/gadm/eri/level_2)|[Plunker](https://plnkr.co/edit/EXLieLvRAAzhktBg?preview)<br/>[Plunker](https://plnkr.co/edit/kwV5Pee9ri005RLM?preview)<br/>[Plunker](https://plnkr.co/edit/CwvR1TUb9EJLTRXo?preview)<br/>|TBD|
+|**Estonia**|EST|[0](/sources/gadm/est/level_0)<br/>[1](/sources/gadm/est/level_1)<br/>[2](/sources/gadm/est/level_2)|[Plunker](https://plnkr.co/edit/h3vwnM0qlVmF3QDx?preview)<br/>[Plunker](https://plnkr.co/edit/tL4mtuXdM8ETpTcV?preview)<br/>[Plunker](https://plnkr.co/edit/xFr6PYO608bNdmB7?preview)<br/>|TBD|
+|**Eswatini (Swaziland)**|SWZ|[0](/sources/gadm/swz/level_0)<br/>[1](/sources/gadm/swz/level_1)<br/>[2](/sources/gadm/swz/level_2)|[Plunker](https://plnkr.co/edit/cDNjnu0PqZgBJywQ?preview)<br/>[Plunker](https://plnkr.co/edit/iTpZrSdetNT2cjRA?preview)<br/>[Plunker](https://plnkr.co/edit/ISkMC7492C3bbxhD?preview)<br/>|TBD|
+|**Faroe Islands**|FRO|[0](/sources/gadm/fro/level_0)<br/>[1](/sources/gadm/fro/level_1)<br/>[2](/sources/gadm/fro/level_2)|[Plunker](https://plnkr.co/edit/LmaCMjsR8iN6XXI3?preview)<br/>[Plunker](https://plnkr.co/edit/snGH6JFW7z9Ec3Xc?preview)<br/>[Plunker](https://plnkr.co/edit/KbPfONNGZMdNOkgo?preview)<br/>|TBD|
+|**Fiji**|FJI|[0](/sources/gadm/fji/level_0)<br/>[1](/sources/gadm/fji/level_1)<br/>[2](/sources/gadm/fji/level_1)|[Plunker](https://plnkr.co/edit/FPYOtOduZ0PucPpB?preview)<br/>[Plunker](https://plnkr.co/edit/AxYtZtiDpHmF6DTJ?preview)<br/>[Plunker](https://plnkr.co/edit/9qJ0uZGsJs5xkdks?preview)<br/>|TBD|
+|**Finland**|FIN|[0](/sources/gadm/fin/level_0)<br/>[1](/sources/gadm/fin/level_1)<br/>[2](/sources/gadm/fin/level_2)<br/>[3](/sources/gadm/fin/level_3)<br/>[4](/sources/gadm/fin/level_4)||TBD|
+|**France**|FRA|[0](/sources/gadm/fra/level_0)<br/>[1](/sources/gadm/fra/level_1)<br/>[2](/sources/gadm/fra/level_2)<br/>[3](/sources/gadm/fra/level_3)<br/>|[CodeSandbox](https://codesandbox.io/s/gracious-euler-s3o5r)<br/>[CodeSandbox](https://codesandbox.io/s/wild-bird-cihpr)<br/>[CodeSandbox](https://codesandbox.io/s/vigorous-spence-d56sf)<br/>[CodeSandbox](https://codesandbox.io/s/billowing-tree-z4bgu)<br/>|TBD|
+|**French Polynesia**|PYF|[0](/sources/gadm/pyf/level_0)<br/>[1](/sources/gadm/pyf/level_1)<br/>|[CodeSandbox](https://codesandbox.io/s/throbbing-morning-fbxhq)<br/>[CodeSandbox](https://codesandbox.io/s/thirsty-engelbart-r150u)<br/>|TBD|
+|**French Guiana**|GUF|[0](/sources/gadm/guf/level_0)<br/>[1](/sources/gadm/guf/level_1)<br/>[2](/sources/gadm/guf/level_2)|[CodeSandbox](https://codesandbox.io/s/condescending-sound-hofq1)<br/>[CodeSandbox](https://codesandbox.io/s/infallible-bartik-fzyp7)<br/>[CodeSandbox](https://codesandbox.io/s/long-frog-s3hw0)<br/>|TBD|
+|**Gabon**|GAB|[0](/sources/gadm/gab/level_0)<br/>[1](/sources/gadm/gab/level_1)<br/>[2](/sources/gadm/gab/level_2)||TBD|
+|**Gambia**|GMB|[0](/sources/gadm/gmb/level_0)<br/>[1](/sources/gadm/gmb/level_1)<br/>[2](/sources/gadm/gmb/level_2)||TBD|
+|**Georgia**|GEO|[0](/sources/gadm/geo/level_0)<br/>[1](/sources/gadm/geo/level_1)<br/>[2](/sources/gadm/geo/level_2)||TBD|
+|**Germany**|DEU|[0](/sources/gadm/deu/level_0)<br/>[1](/sources/gadm/deu/level_1)<br/>|[CodeSandbox](https://codesandbox.io/s/stupefied-hofstadter-kg3r4)<br/>[CodeSandbox](https://codesandbox.io/s/snowy-darkness-mpllm)<br/>|TBD|
+|**Ghana**|GHA|[0](/sources/gadm/gha/level_0)<br/>[1](/sources/gadm/gha/level_1)<br/>[2](/sources/gadm/gha/level_2)|[Plunker](https://plnkr.co/edit/Ho5X01WB6KqRzYrI?preview)<br/>[Plunker](https://plnkr.co/edit/yeZjoAELry2EP3EK?preview)<br/>[Plunker](https://plnkr.co/edit/fj2WD2dnD1mYuIeW?preview)<br/>|TBD|
+|**Greece**|GRC|[0](/sources/gadm/grc/level_0)<br/>[1](/sources/gadm/grc/level_1)<br/>[2](/sources/gadm/grc/level_2)<br/>[3](/sources/gadm/grc/level_3)<br/>|[Plunker](https://plnkr.co/edit/pa0veElOgfoEyAHt?preview)<br/>[Plunker](https://plnkr.co/edit/kpOdq2fko2y4MVoB?preview)<br/>[Plunker](https://plnkr.co/edit/uuElnaXP6vOcogDU?preview)<br/>[Plunker](https://plnkr.co/edit/zAcCvIMI8cAoN58q?preview)<br/>|TBD|
+|**Greenland**|GRL|[0](/sources/gadm/grl/level_0)<br/>[1](/sources/gadm/grl/level_1)<br/>|[Plunker](https://plnkr.co/edit/DT9NibfJjiWyExYe?preview)<br/>[Plunker](https://plnkr.co/edit/G9xRTvVusmXK5HJU?preview)<br/>|TBD|
+|**Guadeloupe**|GLP|[0](/sources/gadm/glp/level_0)<br/>[1](/sources/gadm/glp/level_1)<br/>[2](/sources/gadm/glp/level_2)<br/>|[Plunker](https://plnkr.co/edit/bJ3z56szZGLS1unT?preview)<br/>[Plunker](https://plnkr.co/edit/niCdE6Q3TDDWVMDV?preview)<br/>[Plunker](https://plnkr.co/edit/EJAUqPA5OT9wfLb3?preview)<br/>|TBD|
+|**Guernsey**|GHA|[0](/sources/gadm/gha/level_0)<br/>[1](/sources/gadm/gha/level_1)|[Plunker](https://plnkr.co/edit/2WdGvIJAgXZtHW9N?preview)<br/>[Plunker](https://plnkr.co/edit/4AGPJE6aUfjqXheF?preview)<br/>|TBD|
+|**Guinea**|GGY|[0](/sources/gadm/ggy/level_0)<br/>[1](/sources/gadm/ggy/level_1)<br/>[2](/sources/gadm/ggy/level_2)<br/>[3](/sources/gadm/ggy/level_3)|[CodeSandbox](https://codesandbox.io/s/ecstatic-banach-nb4ih)<br/>[CodeSandbox](https://codesandbox.io/s/infallible-night-lgy0f)<br/>[CodeSandbox](https://codesandbox.io/s/pedantic-hooks-q2w3n)<br/>[CodeSandbox](https://codesandbox.io/s/still-fog-stcqy)|TBD|
+|**Haiti**|HTI|[0](/sources/gadm/hti/level_0)<br/>[1](/sources/gadm/hti/level_1)<br/>[2](/sources/gadm/hti/level_2)<br/>[3](/sources/gadm/hti/level_3)<br/>[4](/sources/gadm/hti/level_4)|[CodeSandbox](https://codesandbox.io/s/unruffled-water-b4d0t)<br/>[CodeSandbox](https://codesandbox.io/s/wizardly-cache-ku3gx)<br/>[CodeSandbox](https://codesandbox.io/s/clever-snow-gjkrc)<br/>[CodeSandbox](https://codesandbox.io/s/mystifying-wave-8rbj8)<br/>[CodeSandbox](https://codesandbox.io/s/nervous-breeze-tnn4v)<br/>|TBD|
+|**Heard Island and McDonald Islands**|HMD|[0](/sources/gadm/hmd/level_0)<br/>|[CodeSandbox](https://codesandbox.io/s/falling-star-ipfr8)<br/>|TBD|
+|**Honduras**|HND|[0](/sources/gadm/hnd/level_0)<br/>[1](/sources/gadm/hnd/level_1)<br/>[2](/sources/gadm/hnd/level_2)|[CodeSandbox](https://codesandbox.io/s/fervent-marco-p8m71)<br/>[CodeSandbox](https://codesandbox.io/s/nameless-shape-3p0lc)<br/>[CodeSandbox](https://codesandbox.io/s/vibrant-meadow-jx97c)<br/>|TBD|
+|**Hong Kong**|HKG|[0](/sources/gadm/hkg/level_0)<br/>[1](/sources/gadm/hkg/level_1)||TBD|
+|**Hungary**|HUN|[0](/sources/gadm/hun/level_0)<br/>[1](/sources/gadm/hun/level_1)<br/>[2](/sources/gadm/hun/level_2)||TBD|
+|**Iceland**|ISL|[0](/sources/gadm/isl/level_0)<br/>[1](/sources/gadm/isl/level_1)<br/>[2](/sources/gadm/isl/level_2)|[CodeSandbox](https://codesandbox.io/s/determined-hopper-eel1v)<br/>[CodeSandbox](https://codesandbox.io/s/twilight-cloud-hg5oz)<br/>[CodeSandbox](https://codesandbox.io/s/frosty-surf-g4vc8)<br/>|TBD|
+|**India**|IND|[0](/sources/gadm/ind/level_0)<br/>[1](/sources/gadm/ind/level_1)<br/>[2](/sources/gadm/ind/level_2)<br/>[3](/sources/gadm/ind/level_3)|[CodeSandbox](https://codesandbox.io/s/heuristic-rosalind-k474b)<br/>[CodeSandbox](https://codesandbox.io/s/icy-rain-qg15x)<br/>[CodeSandbox](https://codesandbox.io/s/objective-waterfall-rm51f)<br/>[CodeSandbox](https://codesandbox.io/s/serene-fermi-segeg)<br/>|TBD|
+|**Indonesia**|IDN|[0](/sources/gadm/idn/level_0)<br/>[1](/sources/gadm/idn/level_1)<br/>|[CodeSandbox](https://codesandbox.io/s/nostalgic-burnell-v3vjk)<br/>[CodeSandbox](https://codesandbox.io/s/proud-glade-fem41)<br/>|TBD|
+|**Iran**|IRN|[0](/sources/gadm/irn/level_0)<br/>[1](/sources/gadm/irn/level_1)<br/>[2](/sources/gadm/irn/level_2)||TBD|
+|**Iraq**|IRQ|[0](/sources/gadm/irq/level_0)<br/>[1](/sources/gadm/irq/level_1)<br/>[2](/sources/gadm/irq/level_2)|[CodeSandbox](https://codesandbox.io/s/goofy-poincare-upbbh)<br/>[CodeSandbox](https://codesandbox.io/s/elated-dust-1wk6f)<br/>[CodeSandbox](https://codesandbox.io/s/youthful-ardinghelli-06u4m)<br/>|TBD|
+|**Ireland**|IRL|[0](/sources/gadm/irl/level_0)<br/>[1](/sources/gadm/irl/level_1)|[CodeSandbox](https://codesandbox.io/s/epic-bartik-y7kbk)<br/>[CodeSandbox](https://codesandbox.io/s/angry-cannon-deth1)<br/>|TBD|
+|**Israel**|ISR	|[0](/sources/gadm/isr/level_0)<br/>[1](/sources/gadm/isr/level_1)<br/>|[CodeSandbox](https://codesandbox.io/s/fervent-nobel-qv9uv)<br/>[CodeSandbox](https://codesandbox.io/s/nostalgic-jennings-ytdfg)|TBD|
+|**Italy**|ITA|[0](/sources/gadm/ita/level_0)<br/>[1](/sources/gadm/ita/level_1)<br/>[2](/sources/gadm/ita/level_2)|[CodeSandbox](https://codesandbox.io/s/condescending-rgb-vfzin)<br/>[CodeSandbox](https://codesandbox.io/s/ecstatic-minsky-izsol)<br/>[CodeSandbox](https://codesandbox.io/s/beautiful-sun-hm9qy)<br/>|TBD|
+|**Jamaica**|JAM|[0](/sources/gadm/jam/level_0)<br/>[1](/sources/gadm/jam/level_1)|[Plunker](https://plnkr.co/edit/HXRhVj2USn5BhQVX?preview)<br/>[Plunker](https://plnkr.co/edit/x9uPUPQfchaUTUzY?preview)<br/>|TBD|
+|**Japan**|JPN|[0](/sources/gadm/jpn/level_0)<br/>[1](/sources/gadm/jpn/level_1)<br/>[2](/sources/gadm/jpn/level_2)|[Plunker](https://plnkr.co/edit/NlVwgSeLExXblZNO?preview)<br/>[Plunker](https://plnkr.co/edit/Idn8rr8JwhUQ3fgI?preview)<br/>[CodeSandbox](https://codesandbox.io/s/zen-water-q5wpw)<br/>|TBD|
+|**Jersey**|JEY|[0](/sources/gadm/jey/level_0)<br/>[1](/sources/gadm/jey/level_1)||TBD|
+|**Jordan**|JOR|[0](/sources/gadm/jor/level_0)<br/>[1](/sources/gadm/jor/level_1)<br/>[2](/sources/gadm/jor/level_2)||TBD|
+|**Kazakhstan**|KAZ|[0](/sources/gadm/kaz/level_0)<br/>[1](/sources/gadm/kaz/level_1)<br/>[2](/sources/gadm/kaz/level_2)||TBD|
+|**Kenya**|KEN|[0](/sources/gadm/ken/level_0)<br/>[1](/sources/gadm/ken/level_1)<br/>[2](/sources/gadm/ken/level_2)<br/>[3](/sources/gadm/ken/level_3)||TBD|
+|**Kosovo**|KOS|[0](/sources/gadm/kos/level_0)<br/>[1](/sources/gadm/kos/level_1)<br/>[2](/sources/gadm/kos/level_2)||TBD|
+|**Kuwait**|KWT|[0](/sources/gadm/kwt/level_0)<br/>[1](/sources/gadm/kwt/level_1)||TBD|
+|**Kyrgyzstan**|KGZ|[0](/sources/gadm/kgz/level_0)<br/>[1](/sources/gadm/kgz/level_1)<br/>[2](/sources/gadm/kgz/level_2)|[Plunker](https://plnkr.co/edit/nsRckV8d4r5LIGvM?preview)<br/>[Plunker](https://plnkr.co/edit/eKPFVc6EdVR3LLeA?preview)<br/>[Plunker](https://plnkr.co/edit/UfZlPVLP3sLwRWxg?preview)<br/>|TBD|
+|**Laos**|LAO|[0](/sources/gadm/lao/level_0)<br/>[1](/sources/gadm/lao/level_1)<br/>[2](/sources/gadm/lao/level_2)|[Plunker](https://plnkr.co/edit/nHVuoxx8oT0eTjsE?preview)<br/>[Plunker](https://plnkr.co/edit/CkXyr8eHEWQGrwRp?preview)<br/>[Plunker](https://plnkr.co/edit/RkAY508rUugBqI1H?preview)<br/>|TBD|
+|**Latvia**|LVA|[0](/sources/gadm/lva/level_0)<br/>[1](/sources/gadm/lva/level_1)<br/>[2](/sources/gadm/lva/level_2)||TBD|
+|**Lebanon**|LBN|[0](/sources/gadm/lbn/level_0)<br/>[1](/sources/gadm/lbn/level_1)<br/>[2](/sources/gadm/lbn/level_2)<br/>[3](/sources/gadm/lbn/level_3)|[Plunker](https://plnkr.co/edit/4CG2yQZBWx4EZBhJ?preview)<br/>[Plunker](https://plnkr.co/edit/ovUNa3uCGaBN00ju?preview)<br/>[Plunker](https://plnkr.co/edit/Jn2dvsKdVbYg5Kg9?preview)<br/>[CodeSandbox](https://codesandbox.io/s/romantic-kare-iucko)<br/>|TBD|
+|**Lesotho**|LSO|[0](/sources/gadm/lso/level_0)<br/>[1](/sources/gadm/lso/level_1)|[Plunker](https://plnkr.co/edit/x1zhKDSNxHEmgRjP?preview)<br/>[Plunker](https://plnkr.co/edit/PuQj3RUNX8BnTH0a?preview)<br/>|TBD|
+|**Liberia**|LBR|[0](/sources/gadm/lbr/level_0)<br/>[1](/sources/gadm/lbr/level_1)<br/>[2](/sources/gadm/lbr/level_2)<br/>[3](/sources/gadm/lbr/level_3)|[Plunker](https://plnkr.co/edit/QKdFixnpBQkwOImo?preview)<br/>[Plunker](https://plnkr.co/edit/72MCcG6AAfBpCu2E?preview)<br/>[Plunker](https://plnkr.co/edit/6EG5HtKyiO7Ea2rk?preview)<br/>[Plunker](https://plnkr.co/edit/hKIMkWObfpumBiwU?preview)<br/>|TBD|
+|**Lithuania**|LTU|[0](/sources/gadm/ltu/level_0)<br/>[1](/sources/gadm/ltu/level_1)<br/>[2](/sources/gadm/ltu/level_2)|[Plunker](https://plnkr.co/edit/xNWmD6qn50hzwbky?preview)<br/>[Plunker](https://plnkr.co/edit/9FQsiYmUCGTXq0NH?preview)<br/>[Plunker](https://plnkr.co/edit/yGBMr5h3I6wW1FD3?preview)<br/>|TBD|
+|**Macao**|MAC|[0](/sources/gadm/mac/level_0)<br/>[1](/sources/gadm/mac/level_1)<br/>[2](/sources/gadm/mac/level_2)|[CodeSandbox](https://codesandbox.io/s/practical-hill-nj4ce)<br/>[CodeSandbox](https://codesandbox.io/s/elegant-sound-p36x4)<br/>[CodeSandbox](https://codesandbox.io/s/vigilant-curie-pt3lx)<br/>|TBD|
+|**Macedonia**|MKD|[0](/sources/gadm/mkd/level_0)<br/>[1](/sources/gadm/mkd/level_1)||TBD|
+|**Madagascar**|MDG|[0](/sources/gadm/mdg/level_0)<br/>[1](/sources/gadm/mdg/level_1)<br/>[2](/sources/gadm/mdg/level_2)<br/>[3](/sources/gadm/mdg/level_3)<br/>[4](/sources/gadm/mdg/level_4)||TBD|
+|**Malawi**|MWI|[0](/sources/gadm/mwi/level_0)<br/>[1](/sources/gadm/mwi/level_1)<br/>[2](/sources/gadm/mwi/level_2)<br/>[3](/sources/gadm/mwi/level_3)|[Plunker](https://plnkr.co/edit/FCsPQMQapLuOUgsT?preview)<br/>[Plunker](https://plnkr.co/edit/d1fukOIVa6Tt1U5x?preview)<br/>[Plunker](https://plnkr.co/edit/xFGe1dsZEsBr4xLi?preview)<br/>[CodeSandbox](https://codesandbox.io/s/kind-sammet-e2xy4)<br/>|TBD|
+|**Malaysia**|MYS|[0](/sources/gadm/mys/level_0)<br/>[1](/sources/gadm/mys/level_1)<br/>[2](/sources/gadm/mys/level_2)|[CodeSandbox](https://codesandbox.io/s/exciting-cache-yknmb)<br/>[CodeSandbox](https://codesandbox.io/s/keen-chandrasekhar-c4owe)<br/>[CodeSandbox](https://codesandbox.io/s/interesting-violet-4k3cf)<br/>|TBD|
+|**Maldives**|MDV|[0](/sources/gadm/mdv/level_0)<br/>|[Plunker](https://plnkr.co/edit/q3hJmXsfixM56gUm?preview)<br/>|TBD|
+|**Mali**|MLI|[0](/sources/gadm/mli/level_0)<br/>[1](/sources/gadm/mli/level_1)<br/>[2](/sources/gadm/mli/level_2)<br/>[3](/sources/gadm/mli/level_3)<br/>[4](/sources/gadm/mli/level_4)|[CodeSandbox](https://codesandbox.io/s/interesting-rui-b245n)<br/>[CodeSandbox](https://codesandbox.io/s/dreamy-cerf-ldg5o)<br/>[CodeSandbox](https://codesandbox.io/s/busy-dream-pbjiv)<br/>[CodeSandbox](https://codesandbox.io/s/condescending-shaw-uyxvx)<br/>[CodeSandbox](https://codesandbox.io/s/delicate-feather-rz64r)<br/>|TBD|
+|**Malta**|MLT|[0](/sources/gadm/mlt/level_0)<br/>[1](/sources/gadm/mlt/level_1)<br/>[2](/sources/gadm/mlt/level_2)<br/>|[Plunker](https://plnkr.co/edit/s7kGbKmmxu2UfCAS?preview)<br/>[Plunker](https://plnkr.co/edit/leDn9iwyqbWEBn0B?preview)<br/>[Plunker](https://plnkr.co/edit/oRpXV8hT11OS3rzx?preview)<br/>|TBD|
+|**Martinique**|MTQ|[0](/sources/gadm/mtq/level_0)<br/>[1](/sources/gadm/mtq/level_1)<br/>[2](/sources/gadm/mtq/level_2)<br/>|[Plunker](https://plnkr.co/edit/2clAdisI8CKhk3eY?preview)<br/>[Plunker](https://plnkr.co/edit/Q7RKpE4vAV15O4Lw?preview)<br/>[Plunker](https://plnkr.co/edit/jhF90YkTE22q3Lf5?preview)<br/>|TBD|
+|**Mauritania**|MRT|[0](/sources/gadm/mrt/level_0)<br/>[1](/sources/gadm/mrt/level_1)<br/>[2](/sources/gadm/mrt/level_2)<br/>|[Plunker](https://plnkr.co/edit/E8mHpjVVTkR0urlm?preview)<br/>[Plunker](https://plnkr.co/edit/YB9h6FYU9goIZwqY?preview)<br/>[Plunker](https://plnkr.co/edit/mOyqR1gWpqe2GKIF?preview)<br/>|TBD|
+|**Mayotte**|MYT|[0](/sources/gadm/myt/level_0)<br/>[1](/sources/gadm/myt/level_1)<br/>|[Plunker](https://plnkr.co/edit/caePQNg79pttxedZ?preview)<br/>[Plunker](https://plnkr.co/edit/cGOJ7w7RqgnGzbnJ?preview)<br/>|TBD|
+|**Monaco**|MCO|[0](/sources/gadm/mco/level_0)<br/>|[Plunker](https://plnkr.co/edit/9xyKtJQYFjOeJbh2?preview)<br/>|TBD|
+|**Mongolia**|MNG|[0](/sources/gadm/mng/level_0)<br/>[1](/sources/gadm/mng/level_1)<br/>[2](/sources/gadm/mng/level_2)|[CodeSandbox](https://codesandbox.io/s/wizardly-tu-tkwxw)<br/>[CodeSandbox](https://codesandbox.io/s/admiring-glade-0mdin)<br/>[CodeSandbox](https://codesandbox.io/s/restless-dawn-y3sdo)<br/>|TBD|
+|**Montserrat**|MSR|[0](/sources/gadm/msr/level_0)<br/>[1](/sources/gadm/msr/level_1)|[CodeSandbox](https://codesandbox.io/s/intelligent-feather-lghlo)<br/>[CodeSandbox](https://codesandbox.io/s/runtime-smoke-xh7tm)<br/>|TBD|
+|**Morocco**|MAR|[0](/sources/gadm/mar/level_0)<br/>[1](/sources/gadm/mar/level_1)<br/>[2](/sources/gadm/mar/level_2)<br/>[3](/sources/gadm/mar/level_3)<br/>[4](/sources/gadm/mar/level_4)<br/>|[CodeSandbox](https://codesandbox.io/s/thirsty-lucy-b7w3t)<br/>[CodeSandbox](https://codesandbox.io/s/compassionate-rubin-qi0fe)<br/>[CodeSandbox](https://codesandbox.io/s/muddy-rain-e36nn)<br/>[CodeSandbox](https://codesandbox.io/s/great-austin-6dg7r)<br/>[CodeSandbox](https://codesandbox.io/s/patient-cookies-0xgyw)<br/>|TBD|
+|**Myanmar**|MMR|[0](/sources/gadm/mmr/level_0)<br/>[1](/sources/gadm/mmr/level_1)<br/>[2](/sources/gadm/mmr/level_2)<br/>[3](/sources/gadm/mmr/level_3)<br/>|[CodeSandbox](https://codesandbox.io/s/exciting-newton-qrb3z)<br/>[CodeSandbox](https://codesandbox.io/s/peaceful-chihiro-izdoj)<br/>[CodeSandbox](https://codesandbox.io/s/optimistic-gwen-i7re6)<br/>[CodeSandbox](https://codesandbox.io/s/dreamy-cache-bo1qn)<br/>|TBD|
+|**Namibia**|NAM|[0](/sources/gadm/nam/level_0)<br/>[1](/sources/gadm/nam/level_1)<br/>[2](/sources/gadm/nam/level_2)||TBD|
+|**Nauru**|NRU|[0](/sources/gadm/nru/level_0)<br/>[1](/sources/gadm/nru/level_1)|[CodeSandbox](https://codesandbox.io/s/adoring-glade-lhbg1)<br/>[CodeSandbox](https://codesandbox.io/s/dazzling-fermat-s8j0d)<br/>|TBD|
+|**Nepal**|NPL|[0](/sources/gadm/npl/level_0)<br/>[1](/sources/gadm/npl/level_1)<br/>[2](/sources/gadm/npl/level_2)<br/>[3](/sources/gadm/npl/level_3)<br/>|[Plunker](https://plnkr.co/edit/cx9RJWq1JLbiOlAl?preview)<br/>[Plunker](https://plnkr.co/edit/9okUMs0TlfGe3rsL?preview)<br/>[Plunker](https://plnkr.co/edit/apZVQgxwWQfjYrqM?preview)<br/>[Plunker](https://plnkr.co/edit/GPyRspe0dIomOM4t?preview)<br/>|TBD|
+|**Netherlands**|NLD|[0](/sources/gadm/nld/level_0)<br/>[1](/sources/gadm/nld/level_1)<br/>[2](/sources/gadm/nld/level_2)|[Plunker](https://plnkr.co/edit/jbkmFGInUzBByVyF?preview)<br/>[Plunker](https://plnkr.co/edit/g1NI2k7jTUHmEsgo?preview)<br/>[Plunker](https://plnkr.co/edit/HU3jp7FKQUfIXubY?preview)<br/>|TBD|
+|**New Caledonia**|NCL|[0](/sources/gadm/ncl/level_0)<br/>[1](/sources/gadm/ncl/level_1)<br/>[2](/sources/gadm/ncl/level_2)||TBD|
+|**New Zealand**|NZL|[0](/sources/gadm/nzl/level_0)<br/>[1](/sources/gadm/nzl/level_1)<br/>[2](/sources/gadm/nzl/level_2)|[Plunker](https://plnkr.co/edit/HH0YyaU6YuqGpZuH?preview)<br/>[Plunker](https://plnkr.co/edit/bAQVWvlSHMkyPFwD?preview)<br/>[Plunker](https://plnkr.co/edit/logsnbeskp3TwY72?preview)<br/>|TBD|
+|**Nicaragua**|NIC|[0](/sources/gadm/nic/level_0)<br/>[1](/sources/gadm/nic/level_1)<br/>[2](/sources/gadm/nic/level_2)|[Plunker](https://plnkr.co/edit/DHcbYVsCff4ABtu3?preview)<br/>[Plunker](https://plnkr.co/edit/XjzkG5flq1pJwUX1?preview)<br/>[Plunker](https://plnkr.co/edit/hAvZ5Yb6EkNzTumj?preview)<br/>|TBD|
+|**Niger**|NER|[0](/sources/gadm/ner/level_0)<br/>[1](/sources/gadm/ner/level_1)<br/>[2](/sources/gadm/ner/level_2)<br/>[3](/sources/gadm/ner/level_3)|[Plunker](https://plnkr.co/edit/CNyHQpZRIydC2ygX?preview)<br/>[Plunker](https://plnkr.co/edit/BCec5GG13ceMGmoo?preview)<br/>[Plunker](https://plnkr.co/edit/0lQFh4ilqmXzTH4j?preview)<br/>[Plunker](https://plnkr.co/edit/NmgieQzsn1Oz0Id8?preview)<br/>|TBD|
+|**North Korea**|PRK|[0](/sources/gadm/prk/level_0)<br/>[1](/sources/gadm/prk/level_1)<br/>[2](/sources/gadm/prk/level_2)|[Plunker](https://plnkr.co/edit/LbNUlJ8e5vHpFgQx?preview)<br/>[Plunker](https://plnkr.co/edit/Fb7BThP17qgOw0mf?preview)<br/>[Plunker](https://plnkr.co/edit/QDLmeQPnTYJKgOZj?preview)<br/>|TBD|
+|**Oman**|OMN|[0](/sources/gadm/omn/level_0)<br/>[1](/sources/gadm/omn/level_1)||TBD|
+|**Pakistan**|PAK|[0](/sources/gadm/pak/level_0)<br/>[1](/sources/gadm/pak/level_1)<br/>[2](/sources/gadm/pak/level_2)<br/>[3](/sources/gadm/pak/level_3)||TBD|
+|**Palau**|PLW|[0](/sources/gadm/plw/level_0)<br/>[1](/sources/gadm/plw/level_1)||TBD|
+|**Palestine**|PSE|[0](/sources/gadm/pse/level_0)<br/>[1](/sources/gadm/pse/level_1)<br/>[2](/sources/gadm/pse/level_2)||TBD|
+|**Panama**|PAN|[0](/sources/gadm/pan/level_0)<br/>[1](/sources/gadm/pan/level_1)<br/>[2](/sources/gadm/pan/level_2)<br/>[3](/sources/gadm/pan/level_3)||TBD|
+|**Papua New Guinea**|PNG|[0](/sources/gadm/png/level_0)<br/>[1](/sources/gadm/png/level_1)<br/>[2](/sources/gadm/png/level_2)||TBD|
+|**Paraguay**|PRY|[0](/sources/gadm/pry/level_0)<br/>[1](/sources/gadm/pry/level_1)<br/>[2](/sources/gadm/pry/level_2)||TBD|
+|**Qatar**|QAT|[0](/sources/gadm/qat/level_0)<br/>[1](/sources/gadm/qat/level_1)||TBD|
+|**Republic of the Congo**|COG|[0](/sources/gadm/cog/level_0)<br/>[1](/sources/gadm/cog/level_1)<br/>[2]()||TBD|
+|**Réunion**|REU|[0](/sources/gadm/reu/level_0)<br/>[1](/sources/gadm/reu/level_1)<br/>[2]2)||TBD|
+|**Romania**|ROU|[0](/sources/gadm/rou/level_0)<br/>[1](/sources/gadm/rou/level_1)<br/>[2](/sources/gadm/rou/level_2)||TBD|
+|**Russia**|RUS|[0](/sources/gadm/rus/level_0)<br/>[1](/sources/gadm/rus/level_1)<br/>[2](/sources/gadm/rus/level_2)<br/>[3](/sources/gadm/rus/level_3)||TBD|
+|**Rwanda**|RWA|[0](/sources/gadm/rwa/level_0)<br/>[1](/sources/gadm/rwa/level_1)<br/>[2](/sources/gadm/rwa/level_2)<br/>[3](/sources/gadm/rwa/level_3)<br/>[4](/sources/gadm/rwa/level_4)||TBD|
+|**Saint Helena**|SHN|[0](/sources/gadm/shn/level_0)<br/>[1](/sources/gadm/shn/level_1)<br/>[2](/sources/gadm/shn/level_2)||TBD|
+|**Saint Kitts and Nevis**|KNA|[0](/sources/gadm/kna/level_0)<br/>[1](/sources/gadm/kna/level_1)||TBD|
+|**Saint Lucia**|LCA|[0](/sources/gadm/lca/level_0)<br/>[1](/sources/gadm/lca/level_1)||TBD|
+|**Saint Pierre and Miquelon**|SPM|[0](/sources/gadm/spm/level_0)<br/>[1](/sources/gadm/spm/level_1)||TBD|
+|**Saint Vincent and the Grenadines**|VCT|[0](/sources/gadm/vct/level_0)<br/>[1](/sources/gadm/vct/level_1)||TBD|
+|**Samoa**|WSM|[0](/sources/gadm/wsm/level_0)<br/>[1](/sources/gadm/wsm/level_1)<br/>[2](/sources/gadm/wsm/level_2)||TBD|
+|**South Korea**|KOR|[0](/sources/gadm/kor/level_0)<br/>[1](/sources/gadm/kor/level_1)<br/>[2](/sources/gadm/kor/level_2)|[CodeSandbox](https://codesandbox.io/s/interesting-almeida-do09h)<br/>[CodeSandbox](https://codesandbox.io/s/thirsty-stallman-pudhr)<br/>[CodeSandbox](https://codesandbox.io/s/musing-kowalevski-kphnw)<br/>|TBD|
+|**Taiwan**|TWN|[0](/sources/gadm/twn/level_0)<br/>[1](/sources/gadm/twn/level_1)<br/>[2](/sources/gadm/twn/level_2)||TBD|
+|**Tajikistan**|TJK|[0](/sources/gadm/tjk/level_0)<br/>[1](/sources/gadm/tjk/level_1)<br/>[2](/sources/gadm/tjk/level_2)<br/>[3](/sources/gadm/tjk/level_3)||TBD|
+|**Tanzania**|TZA|[0](/sources/gadm/tza/level_0)<br/>[1](/sources/gadm/tza/level_1)<br/>[2](/sources/gadm/tza/level_2)<br/>[3](/sources/gadm/tza/level_3)||TBD|
+|**Thailand**|THA|[0](/sources/gadm/tha/level_0)<br/>[1](/sources/gadm/tha/level_1)<br/>[2](/sources/gadm/tha/level_2)<br/>[3](/sources/gadm/tha/level_3)||TBD|
+|**Togo**|TGO|[0](/sources/gadm/tgo/level_0)<br/>[1](/sources/gadm/tgo/level_1)<br/>[2](/sources/gadm/tgo/level_2)||TBD|
+|**Uganda**|UGA|[0](/sources/gadm/uga/level_0)<br/>[1](sources/gadm/uga/level_1)<br/>[2](sources/gadm/uga/level_2)<br/>[3](sources/gadm/uga/level_3)<br/>[4](sources/gadm/uga/level_4)||TBD|
+|**Ukraine**|UKR|[0](sources/gadm/ukr/level_0)<br/>[1](sources/gadm/ukr/level_1)<br/>[2](sources/gadm/ukr/level_2)||TBD|
+|**United Arab Emirates**|ARE|[0](sources/gadm/are/level_0)<br/>[1](sources/gadm/are/level_1)<br/>[2](sources/gadm/are/level_2)<br/>[3](sources/gadm/are/level_3)||TBD|
+|**United Kingdom**|GBR|[0](sources/gadm/gbr/level_0)<br/>[1](sources/gadm/gbr/level_1)<br/>[2](sources/gadm/gbr/level_2)<br/>[3](sources/gadm/gbr/level_3)||TBD|
+|**Uruguay**|URY|[0](sources/gadm/ury/level_0)<br/>[1](sources/gadm/ury/level_1)<br/>[2](sources/gadm/ury/level_2)||TBD|
+|**Uzbekistan**|UZB|[0](sources/gadm/uzb/level_0)<br/>[1](sources/gadm/uzb/level_1)<br/>[2](sources/gadm/uzb/level_2)||TBD|
+|**Vanuatu**|VUT|[0](sources/gadm/vut/level_0)<br/>[1](sources/gadm/vut/level_1)<br/>[2](sources/gadm/vut/level_2)||TBD|
+|**Venezuela**|VEN|[0](sources/gadm/ven/level_0)<br/>[1](sources/gadm/ven/level_1)<br/>[2](sources/gadm/ven/level_2)||TBD|
+|**Vietnam**|VNM|[0](sources/gadm/vnm/level_0)<br/>[1](sources/gadm/vnm/level_1)<br/>[2](sources/gadm/vnm/level_2)<br/>[3](sources/gadm/vnm/level_3)||TBD|
+|**Virgin Islands**|VIR|[0](sources/gadm/vir/level_0)<br/>[1](sources/gadm/vir/level_1)<br/>[2](sources/gadm/vir/level_2)||TBD|
+|**Wallis and Futuna**|WLF|[0](sources/gadm/wlf/level_0)<br/>[1](sources/gadm/wlf/level_1)<br/>[2](sources/gadm/wlf/level_2)||TBD|
+|**Western Sahara**|ESH|[0](sources/gadm/esh/level_0)<br/>[1](sources/gadm/esh/level_1)||TBD|
+|**Yemen**|YEM|[0](sources/gadm/yem/level_0)<br/>[1](sources/gadm/yem/level_1)<br/>[2](sources/gadm/yem/level_2)||TBD|
+|**Zambia**|ZMB|[0](sources/gadm/zmb/level_0)<br/>[1](sources/gadm/zmb/level_1)<br/>[2](sources/gadm/zmb/level_2)||TBD|
+|**Zimbabwe**|ZWE|[0](sources/gadm/zme/level_0)<br/>[1](sources/gadm/zme/level_1)<br/>[2](sources/gadm/zme/level_0)||TBD|
 
  
