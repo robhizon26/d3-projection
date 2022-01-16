@@ -5,7 +5,7 @@
 |**Afghanistan**|AFG|[0](https://yahoo.com)<br/>[1]()<br/>[2]()||TBD|
 |**Akrotiri and Dhekelia**|XAD|[0]()<br/>[1]()||TBD|
 |**Åland**|ALA|[0]()<br/>[1]()||TBD|
-|**Albania**|ALB|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|[CodeSandbox](https://codesandbox.io/s/optimistic-booth-rnob1)<br/>[CodeSandbox](https://codesandbox.io/s/long-sunset-kyui8)<br/>[CodeSandbox](https://codesandbox.io/s/loving-paper-pnrbw)<br/>[CodeSandbox](https://codesandbox.io/s/happy-dream-g8x91)<br/>|TBD|
+|**Albania**|ALB|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|<a href="https://codesandbox.io/s/optimistic-booth-rnob1" target='_blank'>CodeSandbox</a><br/>[CodeSandbox](https://codesandbox.io/s/long-sunset-kyui8)<br/>[CodeSandbox](https://codesandbox.io/s/loving-paper-pnrbw)<br/>[CodeSandbox](https://codesandbox.io/s/happy-dream-g8x91)<br/>|TBD|
 |**Algeria**|DZA|[0]()<br/>[1]()<br/>[2]()||TBD|
 |**Angola**|AGO|[0]()<br/>[1]()<br/>[2]()<br/>[3]()<br/>|[CodeSandbox](https://codesandbox.io/s/infallible-liskov-h032r)<br/>[CodeSandbox](https://codesandbox.io/s/busy-pine-x91f0)<br/>[CodeSandbox](https://codesandbox.io/s/wispy-butterfly-d62q2)<br/>[CodeSandbox](https://codesandbox.io/s/quizzical-cookies-jgsfe)<br/>|TBD|
 |**Anguilla**|AIA|[0]()<br/>|[CodeSandbox](https://codesandbox.io/s/eloquent-gagarin-20sfm)<br/>|TBD|
@@ -162,46 +162,4 @@
 |**Zambia**|YEM|[0]()<br/>[1]()<br/>[2]()||TBD|
 |**Zimbabwe**|YEM|[0]()<br/>[1]()<br/>[2]()||TBD|
 
-
-Region      |Code| Level | Playground |Notes|
-|------------|----|-------|------------|-----|
-|Afghanistan |AFG | [0]() |            |     |
-
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  |  \| 
-
-Left aligned Header | Right aligned Header | Center aligned Header
-| :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+ 
