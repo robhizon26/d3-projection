@@ -2,7 +2,7 @@
 
 |Region/Country |Code| Level | Playground |Notes|
 |---------------|----|-------|------------|-----|
-|**Afghanistan**|AFG|[0](gadm/afg/level_0)<br/>[1]()<br/>[2]()||TBD|
+|**Afghanistan**|AFG|[0](/gadm/afg/level_0)<br/>[1]()<br/>[2]()||TBD|
 |**Akrotiri and Dhekelia**|XAD|[0]()<br/>[1]()||TBD|
 |**Åland**|ALA|[0]()<br/>[1]()||TBD|
 |**Albania**|ALB|[0]()<br/>[1]()<br/>[2]()<br/>[3]()|<a href="https://codesandbox.io/s/optimistic-booth-rnob1" target='_blank'>CodeSandbox</a><br/>[CodeSandbox](https://codesandbox.io/s/long-sunset-kyui8)<br/>[CodeSandbox](https://codesandbox.io/s/loving-paper-pnrbw)<br/>[CodeSandbox](https://codesandbox.io/s/happy-dream-g8x91)<br/>|TBD|
