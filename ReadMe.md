@@ -136,7 +136,7 @@
 |**Paraguay**|PRY|[0](/sources/gadm/pry/level_0)<br/>[1](/sources/gadm/pry/level_1)<br/>[2](/sources/gadm/pry/level_2)||TBD|
 |**Qatar**|QAT|[0](/sources/gadm/qat/level_0)<br/>[1](/sources/gadm/qat/level_1)||TBD|
 |**Republic of the Congo**|COG|[0](/sources/gadm/cog/level_0)<br/>[1](/sources/gadm/cog/level_1)<br/>[2]()||TBD|
-|**Réunion**|REU|[0](/sources/gadm/reu/level_0)<br/>[1](/sources/gadm/reu/level_1)<br/>[2]2)||TBD|
+|**Réunion**|REU|[0](/sources/gadm/reu/level_0)<br/>[1](/sources/gadm/reu/level_1)<br/>[2](/sources/gadm/reu/level_2)||TBD|
 |**Romania**|ROU|[0](/sources/gadm/rou/level_0)<br/>[1](/sources/gadm/rou/level_1)<br/>[2](/sources/gadm/rou/level_2)||TBD|
 |**Russia**|RUS|[0](/sources/gadm/rus/level_0)<br/>[1](/sources/gadm/rus/level_1)<br/>[2](/sources/gadm/rus/level_2)<br/>[3](/sources/gadm/rus/level_3)||TBD|
 |**Rwanda**|RWA|[0](/sources/gadm/rwa/level_0)<br/>[1](/sources/gadm/rwa/level_1)<br/>[2](/sources/gadm/rwa/level_2)<br/>[3](/sources/gadm/rwa/level_3)<br/>[4](/sources/gadm/rwa/level_4)||TBD|
