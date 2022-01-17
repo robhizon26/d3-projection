@@ -168,4 +168,8 @@
 |**Zambia**|ZMB|[0](sources/gadm/zmb/level_0)<br/>[1](sources/gadm/zmb/level_1)<br/>[2](sources/gadm/zmb/level_2)||TBD|
 |**Zimbabwe**|ZWE|[0](sources/gadm/zme/level_0)<br/>[1](sources/gadm/zme/level_1)<br/>[2](sources/gadm/zme/level_0)||TBD|
 
+ [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/robhizon26/10)
+
  
+
+ [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?cmd=_donations&business=49V38B35ARHB6&currency_code=USD&Z3JncnB0=)
