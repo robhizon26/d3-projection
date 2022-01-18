@@ -1,0 +1,141 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>D3 Projection - eth_2</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            background: whitesmoke;
+        }
+
+        .polygon {
+            stroke: white;
+            fill: #005DAA;
+            stroke-width: 0.01em;
+        }
+
+        .hover {
+            stroke-width: 0.01em;
+            stroke: black;
+            fill: yellow;
+        }
+
+        div.tooltip {
+            position: absolute;
+            text-align: left;
+            width: 150px;
+            height: auto;
+            background: white;
+            border: 1px solid #ddd;
+            pointer-events: none;
+            font: 15px sans-serif;
+            z-index: 2;
+            padding: 10px;
+            opacity: 0;
+            line-height: 18px;
+            border-radius: 10px;
+            color: #303030;
+        }
+
+        #title,
+        #map {
+            font-family: "Proxima Nova", Montserrat, sans-serif;
+            font-size: 2em;
+            font-weight: 100;
+            color: #005DAA;
+            border: 1px solid #808080;
+            text-align: center;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <a style="float:right;padding: 10px;" href="https://github.com/robhizon26/d3-projection" target="_blank"
+        title="source"><i class="fa fa-github"></i></a>
+    <div id="title">Ethiopia</div>
+    <div id="map"></div>
+    <script>
+        var dim = 700;
+        const center = {
+            "lng": 40.4802,
+            "lat": 9.1713
+        };
+        var scale = 2679;
+
+        var title = document.getElementById('title');
+        title.style.width = dim;
+        title.style.marginLeft = "calc(50% - " + (dim / 2) + "px)";
+        var map = document.getElementById('map')
+        map.style.width = dim;
+        map.style.marginLeft = "calc(50% - " + (dim / 2) + "px)";
+
+        var tooltip = d3
+            .select("#map")
+            .append("div")
+            .attr("class", "tooltip")
+            .attr("opacity", 0);
+        var width = dim,
+            height = dim;
+
+        var svg = d3.select("#map")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        scale = scale * .9;// to give 5% padding on each side
+        var projection = d3.geo.mercator()
+            .center([center.lng, center.lat])
+            .scale(scale)
+            .translate([width / 2, height / 2]);
+        var geoPath = d3.geo.path()
+            .projection(projection);
+
+        var g = svg.append("g");
+        d3.json("geosource.json", function (json) {
+            g.selectAll("path")
+                .data(json.features)
+                .enter()
+                .append("path")
+                .attr("d", geoPath)
+                .attr("class", "polygon")
+                .on("mouseover", mouseover)
+                .on("mouseout", mouseout)
+                .on("mousemove", mousemove);
+
+            svg.call(d3.behavior.zoom().on("zoom", () => {
+                g.attr("transform", "translate(" + d3.event.translate.join(",") + ")scale(" + d3.event.scale + ")");
+            }));
+        });
+        function mouseover(d) {
+            d3.select(this).attr("class", "hover");
+            tooltip.style("opacity", 0.9);
+            tooltip.html((d.properties.NAME_2 && "<b>" + d.properties.NAME_2 + "</b><br>" || '') +
+                (d.properties.ENGTYPE_2 && d.properties.ENGTYPE_2 + "<br>" || '') +
+                (d.properties.NAME_1 && d.properties.NAME_1));
+        }
+        function mouseout(d) {
+            d3.select(this).attr("class", "polygon");
+            tooltip.style("opacity", 0);
+        }
+        function mousemove(d) {
+            tooltip.style({
+                left: function () {
+                    if (d3.event.pageX > 800) {
+                        return d3.event.pageX - 180 + "px";
+                    } else {
+                        return d3.event.pageX + 23 + "px";
+                    }
+                },
+                top: d3.event.pageY - 20 + "px",
+            });
+        }
+    </script>
+</body>
+
+</html>
