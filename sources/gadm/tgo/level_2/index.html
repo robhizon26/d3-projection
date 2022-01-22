@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>D3 Projection - ken_3</title>
+    <title>D3 Projection - tgo_2</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
     <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -16,11 +16,11 @@
         .polygon {
             stroke: white;
             fill: #005DAA;
-            stroke-width: 0.001em;
+            stroke-width: 0.01em;
         }
 
         .hover {
-            stroke-width: 0.001em;
+            stroke-width: 0.01em;
             stroke: black;
             fill: yellow;
         }
@@ -58,15 +58,15 @@
 <body>
     <a style="float:right;padding: 10px;" href="https://github.com/robhizon26/d3-projection" target="_blank"
         title="source"><i class="fa fa-github"></i></a>
-    <div id="title">Kenya</div>
+    <div id="title">Togo</div>
     <div id="map"></div>
     <script>
         var dim = 700;
         const center = {
-            "lng": 37.8846,
-            "lat": 0.1937
+            "lng": 0.8297,
+            "lat": 8.6351
         };
-        var scale = 4130;
+        var scale = 7964;
 
         var title = document.getElementById('title');
         title.style.width = dim;
@@ -115,9 +115,8 @@
         function mouseover(d) {
             d3.select(this).attr("class", "hover");
             tooltip.style("opacity", 0.9);
-            tooltip.html((d.properties.NAME_3 && "<b>" + d.properties.NAME_3 + "</b><br>" || '') +
-                (d.properties.ENGTYPE_3 && d.properties.ENGTYPE_3 + "<br>" || '') +
-                (d.properties.NAME_2 && d.properties.NAME_2 + "<br>" || '') +
+            tooltip.html((d.properties.NAME_2 && "<b>" + d.properties.NAME_2 + "</b><br>" || '') +
+                (d.properties.ENGTYPE_2 && d.properties.ENGTYPE_2 + "<br>" || '') +
                 (d.properties.NAME_1 && d.properties.NAME_1));
         }
         function mouseout(d) {
